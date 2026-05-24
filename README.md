@@ -494,6 +494,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Poland KRS](https://github.com/pkolawa/krs-poland-mcp-server)** - Access to Polish National Court Register (KRS)—the government's authoritative registry of all businesses, foundations, and other legal entities.
 - **[Pollinations](https://github.com/pollinations/model-context-protocol)** - Multimodal MCP server for generating images, audio, and text with no authentication required
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
+- **[Pictify](https://github.com/pictify-io/mcp)** - Render images, animated GIFs, and PDFs from HTML/CSS, URLs, or reusable Handlebars/FabricJS templates. Batch up to 100 personalised renders per request and A/B test image variants. Hosted at `https://mcp.pictify.io` or `npx -y @pictify/mcp-server`.
 - **[PiAPI](https://github.com/apinetwork/piapi-mcp-server)** - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - **[PiloTY](https://github.com/yiwenlu66/PiloTY)** - AI pilot for PTY operations that enables agents to control interactive terminals with stateful sessions, SSH connections, and background process management
 - **[Playwright MCP Server](https://github.com/executeautomation/mcp-playwright)** - An MCP server using Playwright for browser automation and webscrapping
